@@ -7,7 +7,7 @@ import static org.junit.jupiter.api.Assertions.*;
 class StringCalculatorShould {
 
 	StringCalculator stringCalculator = new StringCalculator();
-
+//creating test cases
 	@Test
 	void empty_string_should_return_0() {
 
